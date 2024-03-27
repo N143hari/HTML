@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<title>Farmerwelfare</title>
+</head>
+<body background="Pink" text="Red">
+
+<marquee bgcolor="Yellow" direction=right>Welcome to Farmerwelfare</marquee>
+<p>please select your perpose of opening this site</p>
+<a href="C:\Users\hp\OneDrive\Desktop\regester.html" target="_blank"<input type="button" name="Regester" value="Regester"/>Regester</a>
+<a href="C:\Users\hp\OneDrive\Desktop\login.html"<input type="button" name="Login" value="Login"/>Login</a>
+<a href="https://farmer.gov.in/WeatherReport/weatherreport.aspx"<input type="button" name="details" value="details"/>Details</a>
+</body>
+</html>
