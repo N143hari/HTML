@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<title>Regesterpage</title>
+</head>
+<body>
+<form>
+Enter your name:
+<input type="text" name="username" placeholder="Username"/><br/>
+Enter your Mobile number:
+<input type="number" name="mobilenumber" placeholder="Mobile number"/><br/>
+Enter your mail id:
+<input type="mail" name="mail" placeholder="Enter mail id"/><br/>
+Create password:
+<input type="password" name="password" placeholder="password"/><br/>
+Reenter your password:
+<input type="password" name="password" placeholder="Reenterpassword"/><br/>
+Gender:
+<input type="radio" name="gender" value="Male"/>Male
+<input type="radio" name="gender" value="Female"/>Female
+<a href="https://farmer.gov.in/" target="_Blank"<input type="button" name="submit" value="submit"/>submit</a>
+</form>
+</body>
+</html>
