@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My learning</title>
+</head>
+<body>
+<h3 align="center">My marks</h3>
+<table border="1" style="border-collaps:collaps" align="center">
+<tr bgcolor="YELLOW">
+<th>Sno</th>
+<th>Name</th>
+<th>Sub</th>
+<th>Marks</th>
+</tr>
+<tr  bgcolor="pink">
+<td>1</td>
+<td rowspan="3" align="center">HARI</td>
+<td>Python</td>
+<td>100</td>
+</tr>
+<tr  bgcolor="pink">
+<td>2</td>
+<td>HTML</td>
+<td>99</td>
+</tr>
+<tr  bgcolor="pink">
+<td>3</td>
+<td>CSS</td>
+<td>99</td>
+</tr>
+</table>
+</body>
+</html>
