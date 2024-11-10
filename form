@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SMALLPROJECT</title>
+</head>
+<body>
+<h2>INTERN SHIP FORM</h2>
+<form>
+<p>ENTER YOUR NAME:</P>
+<input type="text" name="Name"/>
+<p>ENTER YOUR EMAIL:</p>
+<input type="email" name="Email"/>
+<p>ENTER YOUR PASSWORD</p>
+<input type="password" name="password"/>
+<p>ENTER YOUR AGE</p>
+<input type="number" name="age"/>
+<p>GENDER</p>
+<input type="radio" name="Male" value="Male"/>Male<br/>
+<input type="radio" name="Female" value="Female"/>Female<br/>
+<p>ABOUT YOURSELF</p>
+<textarea row="2" cols="20" name="description">
+</textarea>
+<p>WHICH PROGRAMMING LANGUAGE SHOULD TALK</p>
+<input type="checkbox" name="C" value="on"/>C<br/>
+<input type="checkbox" name="PYTHON" value="on"/>PYTHON<br/>
+<p>UPLOAD RESUME</p>
+<input type="file" naname="fileupload" accept="document/*"/>
+</form>
+</body>
+</html>
